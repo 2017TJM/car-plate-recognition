@@ -20,7 +20,7 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	demo();
 	evaluate();
-
+	
 // 	Mat raw;
 // 	Mat gray;
 // 	Mat binary;
