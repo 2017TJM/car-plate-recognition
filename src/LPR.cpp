@@ -19,7 +19,7 @@ int noiseFilter=3;
 int _tmain(int argc, _TCHAR* argv[])
 {
 	demo();
-	//evaluate();
+	evaluate();
 
 // 	Mat raw;
 // 	Mat gray;
